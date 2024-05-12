@@ -1,4 +1,3 @@
-"use strict";
 const person1 = {
     name: '',
     age: 3,
@@ -12,3 +11,4 @@ const person5 = {
     address: { city: '', country: '' }
 };
 let c;
+export {};
